@@ -1,0 +1,6 @@
+{
+  "name": "Global Carbon Credit Exchange",
+  "description": "A decentralized cross-border carbon credit registry with transparent virtual blockchain transaction tracking and real-time sensor telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
